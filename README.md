@@ -1,4 +1,4 @@
-# Bacteria_Movement_Simulation
+# Bacteria_Bomb_Simulation
 
 Code by Ilyas Ed-daoui
 
