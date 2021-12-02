@@ -1,5 +1,8 @@
 # Bacteria_Movement_Simulation
 
+Code by Ilyas Ed-daoui
+
+
 This script simulates the movements of bacteria in a given environment. The movements are affected by the position of the bacteria (especially the height). 
 
 
@@ -23,13 +26,21 @@ From a given location, there is a 5% chance that in any given second, given the 
 The building is 75m high. If the particle is above the height of the building there is a 20% chance each second it will rise by a meter in turbulence, a 10% chance it will stay at the same level, and an 70% chance it will fall. Below the height of the building there is no turbulence, and the particles will drop by a meter a second
 
 
-##Python/libraries versions:
+**Python/libraries versions:**
 
 
 Python 3.8.5
+
+
 numpy: 1.19.2
+
+
 pandas: 1.1.3
+
+
 matplotlib: 3.3.2
+
+
 scipy: 1.6.2
 raterio: 1.2.10
 
